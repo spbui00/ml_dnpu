@@ -1,7 +1,7 @@
 import numpy as np
 import yaml
 
-FILE_PATH = '../samples/samples_2024-05-18_15-20-41_24826'
+FILE_PATH = '../samples/samples_2024-05-25_13-53-39_76601'
 
 # Load the data from IO.dat
 data = np.loadtxt(f'{FILE_PATH}/IO.dat', delimiter=' ')

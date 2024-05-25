@@ -6,7 +6,7 @@ equilSteps 1e3 #equilibration steps (should be around 1e4)
 calcCurrentSteps 1e4  #steps to run KMC simulation (1e4)
 storingMode 1 # if 1: store states (rates + ocupation) until memoryLimit is reached. might increase performance in the case of limit number of states occuring 
 memoryLimit 1000 #in MB (should be around 100mb under real limit), real memory consumption is memoryLimit*threads
-numSamples 1000 #number of samples to generate
+numSamples 10000 #number of samples to generate
 
 #physical parameters
 T 77 #temperature
