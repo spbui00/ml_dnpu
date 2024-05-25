@@ -1,0 +1,11 @@
+Number of samples: 1000
+Number of control electrodes: 7
+Acceptor number: 10
+Donor number: 0
+Radius: 1.78412
+Electrode width: 0.71365
+Control voltage min: -1
+Control voltage max: 1
+Voltage scan points: 2
+Output electrode: 0
+Time taken to generate samples: 307 seconds

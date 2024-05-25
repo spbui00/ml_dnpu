@@ -1,0 +1,112 @@
+#simulation parameters
+gate XOR 
+threads 5
+finiteElementsResolution 1e5 #(min 1e5)
+equilSteps 1e3 #equilibration steps (should be around 1e4)
+calcCurrentSteps 1e4  #steps to run KMC simulation (1e4)
+storingMode 1 # if 1: store states (rates + ocupation) until memoryLimit is reached. might increase performance in the case of limit number of states occuring 
+memoryLimit 1000 #in MB (should be around 100mb under real limit), real memory consumption is memoryLimit*threads
+numSamples 1000 #number of samples to generate
+
+#physical parameters
+T 77 #temperature
+acceptorNumber 10
+donorNumber 0
+eps 11.68 #relative permitivity (scales coulomb interaction) eps=4.5 --> I0= 15meV 
+a 5 #nm #localization length
+minDist 0 #nm #minimal distance between acceptors (normally not used)
+electrodeWidth 6.708 #nm #used for boundary condition in laplace equation (original 60/150 = 0.4 ratio with radius)
+
+randomEnergyStdDev 0.1 # Energy disorder in eV
+
+#cuts
+minHoppingDist 3  #nm #cut on minimal distance for hop
+maxHoppingDist 60 #nm #cut on maximal distance for hop
+maxInteractionDist 500 #nm #cut coulomb interaction range (not used)
+
+#geometry parameters
+geometry circle #rect/circle. if rect -> lenX, lenY must be defined ; if circle -> radius must be defined
+lenX 300 #nm
+lenY 300 #nm
+radius 16.77 #nm (original 150)
+
+
+#electrode positions 
+### rect: ####
+#positions given in fractions of lens  
+#edges:
+# 0 --> x=0
+# 1 --> x=len
+# 2 --> y=0
+# 3 --> y=width
+
+#        pos edge voltage 
+#electrode 0.25 0 0
+#electrode 0.75 0 0
+#electrode 0.25 1 0
+#electrode 0.75 1 -0.265557
+#electrode 0.25 2 -0.724714
+#electrode 0.75 2 -0.418699
+#electrode 0.25 3 -0.716086
+#electrode 0.75 3 -0.181519
+
+### circle: ####
+#positions given in degrees 
+
+#       pos voltage 
+electrode 0 0.0
+electrode 45 -0.9988459437079305
+electrode 90 0.48230175699542344
+electrode 135 -0.5166275927229129
+electrode 180 -0.9045919612067712
+electrode 225 -0.7028821129126992
+electrode 270 -0.41202338721523424
+electrode 315 0.050241247240580905
+
+
+
+inputElectrode1 3 #index of input electrode 1
+inputElectrode2 5 #index of input electrode 2
+outputElectrode 0 #index of output electrode 
+
+#isolateElectrode 3 #denies any hopps to electrode 3. laplace eq is still affected
+#isolateElectrode 1
+
+controlVoltageMin -1  #possible interval for control voltages
+controlVoltageMax 1 #possible interval for control voltages
+
+
+voltageScanMin 0    #min search voltage
+voltageScanMax 0.5  #max search voltage
+voltageScanPoints 2 # number of points to search on. range between "voltageScanMin" and "voltageScanMax" is split in "voltageScanPoints" number of points.  #0V and 0.5V should be hit exactly
+seperationVoltage 0.25 # "voltage < seperationVoltage" -> false. "voltage > seperationVoltage" -> true. 
+
+
+#optimization parameters
+fitnessUncertWeight 2 #weight in fitness dunction (c2 in thesis)
+diffWeight 0 #weight in fitness dunction (c3 in thesis)
+rndStartPoints 20 #number of phase space points to try as start points for optimization
+convergenceEnergy 0.95 #stop simulation after this optEnergy is reached
+maxIterations 1e8 #stop simulation after this number of iterations
+maxStepIncreases 10 #if fitness + fitnessUncert > 1 => "calcCurrentSteps" is doubled. maximal number of doublings given by maxStepIncreases.
+
+
+#MC opt
+MCTemp 0.005
+maxDeltaV 0.05 #step inside ball with this radius
+
+#basin opt
+basinTemp 0.04
+basinDeltaV 1 #step inside ball with this radius
+basinWaitSteps 1000 #steps after which a basin jump is done
+
+#grad opt
+gradDeltaV 0.02
+
+
+
+#fundamental constants
+k 1.380649e-23 #boltzmann
+e 1.60217662e-19 #elementary charge
+eps0 8.854187817620389e-12
+

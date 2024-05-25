@@ -1,0 +1,946 @@
+new random voltages: 
+1 -0.247345
+2 0.214547
+3 -0.601802
+4 -0.763782
+5 0.540582
+6 0.420883
+7 0.638084
+current: -2.20377e-05 +- 5.97412e-07 voltages: 0.6 -0.247345 0.214547 -0.601802 -0.763782 0.540582 0.420883 0.638084  time: 3.97872e+07
+iteration 10178
+now:  optEnergy: 0.730831 fitness: (0.75 +- 0.00958436) normedDiff: 0.5
+last: optEnergy: 0.726763 fitness: (0.75 +- 0.0116186) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.345 s
+new random voltages: 
+1 -0.209899
+2 0.175802
+3 -0.644935
+4 -0.791781
+5 0.547941
+6 0.463709
+7 0.661574
+current: -2.12383e-05 +- 6.79804e-07 voltages: 0.6 -0.209899 0.175802 -0.644935 -0.791781 0.547941 0.463709 0.661574  time: 3.28015e+07
+iteration 10179
+now:  optEnergy: 0.727367 fitness: (0.75 +- 0.0113167) normedDiff: 0.5
+last: optEnergy: 0.730831 fitness: (0.75 +- 0.00958436) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.343 s
+new random voltages: 
+1 -0.174926
+2 0.128479
+3 -0.633271
+4 -0.807863
+5 0.593561
+6 0.472923
+7 0.686578
+current: -2.087e-05 +- 8.42939e-07 voltages: 0.6 -0.174926 0.128479 -0.633271 -0.807863 0.593561 0.472923 0.686578  time: 1.9016e+07
+iteration 10180
+now:  optEnergy: 0.72144 fitness: (0.75 +- 0.01428) normedDiff: 0.5
+last: optEnergy: 0.727367 fitness: (0.75 +- 0.0113167) normedDiff: 0.5
+-- not accepted --
+time per VoltageSetup = 0.333 s
+new random voltages: 
+1 -0.188926
+2 0.167405
+3 -0.646638
+4 -0.777124
+5 0.518373
+6 0.431798
+7 0.676786
+current: -1.94425e-05 +- 6.3239e-07 voltages: 0.6 -0.188926 0.167405 -0.646638 -0.777124 0.518373 0.431798 0.676786  time: 3.05385e+07
+iteration 10181
+now:  optEnergy: 0.727001 fitness: (0.75 +- 0.0114997) normedDiff: 0.5
+last: optEnergy: 0.727367 fitness: (0.75 +- 0.0113167) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.338 s
+new random voltages: 
+1 -0.234767
+2 0.153215
+3 -0.683644
+4 -0.751401
+5 0.509057
+6 0.467896
+7 0.659711
+current: -2.1956e-05 +- 7.30149e-07 voltages: 0.6 -0.234767 0.153215 -0.683644 -0.751401 0.509057 0.467896 0.659711  time: 2.99636e+07
+iteration 10182
+now:  optEnergy: 0.726485 fitness: (0.75 +- 0.0117574) normedDiff: 0.5
+last: optEnergy: 0.727001 fitness: (0.75 +- 0.0114997) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.341 s
+new random voltages: 
+1 -0.234805
+2 0.118426
+3 -0.684351
+4 -0.797183
+5 0.543678
+6 0.435993
+7 0.634577
+current: -1.95378e-05 +- 6.56433e-07 voltages: 0.6 -0.234805 0.118426 -0.684351 -0.797183 0.543678 0.435993 0.634577  time: 2.56487e+07
+iteration 10183
+now:  optEnergy: 0.726243 fitness: (0.75 +- 0.0118787) normedDiff: 0.5
+last: optEnergy: 0.726485 fitness: (0.75 +- 0.0117574) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.346 s
+new random voltages: 
+1 -0.234566
+2 0.0989923
+3 -0.646971
+4 -0.814074
+5 0.539725
+6 0.477677
+7 0.671212
+current: -2.19907e-05 +- 8.6611e-07 voltages: 0.6 -0.234566 0.0989923 -0.646971 -0.814074 0.539725 0.477677 0.671212  time: 1.9823e+07
+iteration 10184
+now:  optEnergy: 0.72215 fitness: (0.75 +- 0.0139248) normedDiff: 0.5
+last: optEnergy: 0.726243 fitness: (0.75 +- 0.0118787) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.333 s
+new random voltages: 
+1 -0.26482
+2 0.125398
+3 -0.637116
+4 -0.860171
+5 0.559601
+6 0.498592
+7 0.621223
+current: -2.0747e-05 +- 7.30239e-07 voltages: 0.6 -0.26482 0.125398 -0.637116 -0.860171 0.559601 0.498592 0.621223  time: 2.65258e+07
+iteration 10185
+now:  optEnergy: 0.725112 fitness: (0.75 +- 0.0124441) normedDiff: 0.5
+last: optEnergy: 0.72215 fitness: (0.75 +- 0.0139248) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.336 s
+new random voltages: 
+1 -0.226834
+2 0.11685
+3 -0.658333
+4 -0.902639
+5 0.558895
+6 0.546968
+7 0.660887
+current: -2.1061e-05 +- 8.80797e-07 voltages: 0.6 -0.226834 0.11685 -0.658333 -0.902639 0.558895 0.546968 0.660887  time: 2.42302e+07
+iteration 10186
+now:  optEnergy: 0.720428 fitness: (0.75 +- 0.0147861) normedDiff: 0.5
+last: optEnergy: 0.725112 fitness: (0.75 +- 0.0124441) normedDiff: 0.5
+-- not accepted --
+time per VoltageSetup = 0.332 s
+new random voltages: 
+1 -0.285573
+2 0.0828646
+3 -0.65485
+4 -0.875855
+5 0.517553
+6 0.522188
+7 0.663278
+current: -1.96128e-05 +- 8.25183e-07 voltages: 0.6 -0.285573 0.0828646 -0.65485 -0.875855 0.517553 0.522188 0.663278  time: 2.27023e+07
+iteration 10187
+now:  optEnergy: 0.720249 fitness: (0.75 +- 0.0148753) normedDiff: 0.5
+last: optEnergy: 0.725112 fitness: (0.75 +- 0.0124441) normedDiff: 0.5
+-- not accepted --
+time per VoltageSetup = 0.333 s
+new random voltages: 
+1 -0.239535
+2 0.0936548
+3 -0.620855
+4 -0.812701
+5 0.527279
+6 0.497011
+7 0.632082
+current: -2.04878e-05 +- 9.0557e-07 voltages: 0.6 -0.239535 0.0936548 -0.620855 -0.812701 0.527279 0.497011 0.632082  time: 1.78476e+07
+iteration 10188
+now:  optEnergy: 0.718746 fitness: (0.75 +- 0.0156272) normedDiff: 0.5
+last: optEnergy: 0.725112 fitness: (0.75 +- 0.0124441) normedDiff: 0.5
+-- not accepted --
+time per VoltageSetup = 0.33 s
+new random voltages: 
+1 -0.226502
+2 0.08964
+3 -0.650154
+4 -0.831734
+5 0.559068
+6 0.534893
+7 0.589094
+current: -2.00698e-05 +- 8.33038e-07 voltages: 0.6 -0.226502 0.08964 -0.650154 -0.831734 0.559068 0.534893 0.589094  time: 1.7828e+07
+iteration 10189
+now:  optEnergy: 0.72065 fitness: (0.75 +- 0.0146749) normedDiff: 0.5
+last: optEnergy: 0.725112 fitness: (0.75 +- 0.0124441) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.333 s
+new random voltages: 
+1 -0.180484
+2 0.0650409
+3 -0.693453
+4 -0.812603
+5 0.530657
+6 0.573712
+7 0.624837
+current: -1.91877e-05 +- 1.0835e-06 voltages: 0.6 -0.180484 0.0650409 -0.693453 -0.812603 0.530657 0.573712 0.624837  time: 1.32768e+07
+iteration 10190
+now:  optEnergy: 0.710071 fitness: (0.75 +- 0.0199646) normedDiff: 0.5
+last: optEnergy: 0.72065 fitness: (0.75 +- 0.0146749) normedDiff: 0.5
+-- not accepted --
+time per VoltageSetup = 0.328 s
+new random voltages: 
+1 -0.188207
+2 0.0830405
+3 -0.609723
+4 -0.841854
+5 0.546648
+6 0.571332
+7 0.589507
+current: -1.64163e-05 +- 1.02946e-06 voltages: 0.6 -0.188207 0.0830405 -0.609723 -0.841854 0.546648 0.571332 0.589507  time: 1.26077e+07
+iteration 10191
+now:  optEnergy: 0.705658 fitness: (0.75 +- 0.0221712) normedDiff: 0.5
+last: optEnergy: 0.72065 fitness: (0.75 +- 0.0146749) normedDiff: 0.5
+-- not accepted --
+time per VoltageSetup = 0.326 s
+new random voltages: 
+1 -0.234579
+2 0.104015
+3 -0.675478
+4 -0.83771
+5 0.569023
+6 0.486234
+7 0.567302
+current: -1.93602e-05 +- 7.99222e-07 voltages: 0.6 -0.234579 0.104015 -0.675478 -0.83771 0.569023 0.486234 0.567302  time: 2.4167e+07
+iteration 10192
+now:  optEnergy: 0.720809 fitness: (0.75 +- 0.0145953) normedDiff: 0.5
+last: optEnergy: 0.72065 fitness: (0.75 +- 0.0146749) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.342 s
+new random voltages: 
+1 -0.256476
+2 0.065887
+3 -0.707628
+4 -0.839443
+5 0.564507
+6 0.522711
+7 0.595534
+current: -2.12172e-05 +- 8.13967e-07 voltages: 0.6 -0.256476 0.065887 -0.707628 -0.839443 0.564507 0.522711 0.595534  time: 2.02968e+07
+iteration 10193
+now:  optEnergy: 0.722873 fitness: (0.75 +- 0.0135635) normedDiff: 0.5
+last: optEnergy: 0.720809 fitness: (0.75 +- 0.0145953) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.332 s
+new random voltages: 
+1 -0.243093
+2 0.0413634
+3 -0.71685
+4 -0.86555
+5 0.530301
+6 0.500645
+7 0.549538
+current: -1.69261e-05 +- 8.66143e-07 voltages: 0.6 -0.243093 0.0413634 -0.71685 -0.86555 0.530301 0.500645 0.549538  time: 1.69483e+07
+iteration 10194
+now:  optEnergy: 0.713816 fitness: (0.75 +- 0.018092) normedDiff: 0.5
+last: optEnergy: 0.722873 fitness: (0.75 +- 0.0135635) normedDiff: 0.5
+-- not accepted --
+time per VoltageSetup = 0.334 s
+new random voltages: 
+1 -0.226536
+2 0.102827
+3 -0.715216
+4 -0.859022
+5 0.527771
+6 0.551528
+7 0.567311
+current: -1.84039e-05 +- 8.16779e-07 voltages: 0.6 -0.226536 0.102827 -0.715216 -0.859022 0.527771 0.551528 0.567311  time: 2.50604e+07
+iteration 10195
+now:  optEnergy: 0.718618 fitness: (0.75 +- 0.015691) normedDiff: 0.5
+last: optEnergy: 0.722873 fitness: (0.75 +- 0.0135635) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.334 s
+new random voltages: 
+1 -0.270847
+2 0.0684109
+3 -0.673017
+4 -0.833244
+5 0.487091
+6 0.59697
+7 0.603063
+current: -2.13898e-05 +- 8.798e-07 voltages: 0.6 -0.270847 0.0684109 -0.673017 -0.833244 0.487091 0.59697 0.603063  time: 2.04279e+07
+iteration 10196
+now:  optEnergy: 0.720916 fitness: (0.75 +- 0.0145422) normedDiff: 0.5
+last: optEnergy: 0.718618 fitness: (0.75 +- 0.015691) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.328 s
+new random voltages: 
+1 -0.244738
+2 0.0221413
+3 -0.72238
+4 -0.875155
+5 0.528242
+6 0.550384
+7 0.581849
+current: -1.8129e-05 +- 1.01224e-06 voltages: 0.6 -0.244738 0.0221413 -0.72238 -0.875155 0.528242 0.550384 0.581849  time: 1.40627e+07
+iteration 10197
+now:  optEnergy: 0.710518 fitness: (0.75 +- 0.0197409) normedDiff: 0.5
+last: optEnergy: 0.720916 fitness: (0.75 +- 0.0145422) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.328 s
+new random voltages: 
+1 -0.243472
+2 0.059026
+3 -0.762177
+4 -0.891196
+5 0.557379
+6 0.521948
+7 0.619585
+current: -2.03031e-05 +- 8.08995e-07 voltages: 0.6 -0.243472 0.059026 -0.762177 -0.891196 0.557379 0.521948 0.619585  time: 2.32217e+07
+iteration 10198
+now:  optEnergy: 0.721825 fitness: (0.75 +- 0.0140876) normedDiff: 0.5
+last: optEnergy: 0.710518 fitness: (0.75 +- 0.0197409) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.337 s
+new random voltages: 
+1 -0.248707
+2 0.0607021
+3 -0.737789
+4 -0.888112
+5 0.53433
+6 0.505899
+7 0.668791
+current: -2.11446e-05 +- 8.96351e-07 voltages: 0.6 -0.248707 0.0607021 -0.737789 -0.888112 0.53433 0.505899 0.668791  time: 2.07423e+07
+iteration 10199
+now:  optEnergy: 0.720025 fitness: (0.75 +- 0.0149876) normedDiff: 0.5
+last: optEnergy: 0.721825 fitness: (0.75 +- 0.0140876) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.333 s
+new random voltages: 
+1 -0.200006
+2 0.0996451
+3 -0.786357
+4 -0.922197
+5 0.495733
+6 0.468099
+7 0.618891
+current: -1.83314e-05 +- 6.3083e-07 voltages: 0.6 -0.200006 0.0996451 -0.786357 -0.922197 0.495733 0.468099 0.618891  time: 3.1463e+07
+iteration 10200
+now:  optEnergy: 0.725667 fitness: (0.75 +- 0.0121667) normedDiff: 0.5
+last: optEnergy: 0.720025 fitness: (0.75 +- 0.0149876) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.341 s
+new random voltages: 
+1 -0.161923
+2 0.0772589
+3 -0.801763
+4 -0.928041
+5 0.48897
+6 0.423234
+7 0.637158
+current: -1.4754e-05 +- 5.91276e-07 voltages: 0.6 -0.161923 0.0772589 -0.801763 -0.928041 0.48897 0.423234 0.637158  time: 2.64692e+07
+iteration 10201
+now:  optEnergy: 0.721662 fitness: (0.75 +- 0.0141689) normedDiff: 0.5
+last: optEnergy: 0.725667 fitness: (0.75 +- 0.0121667) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.336 s
+new random voltages: 
+1 -0.162957
+2 0.106217
+3 -0.786335
+4 -0.920645
+5 0.443247
+6 0.455004
+7 0.648948
+current: -1.61467e-05 +- 5.86929e-07 voltages: 0.6 -0.162957 0.106217 -0.786335 -0.920645 0.443247 0.455004 0.648948  time: 3.30337e+07
+iteration 10202
+now:  optEnergy: 0.724297 fitness: (0.75 +- 0.0128516) normedDiff: 0.5
+last: optEnergy: 0.721662 fitness: (0.75 +- 0.0141689) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.338 s
+new random voltages: 
+1 -0.190106
+2 0.112094
+3 -0.768315
+4 -0.940444
+5 0.482975
+6 0.423124
+7 0.635181
+current: -1.7736e-05 +- 6.42225e-07 voltages: 0.6 -0.190106 0.112094 -0.768315 -0.940444 0.482975 0.423124 0.635181  time: 3.19628e+07
+iteration 10203
+now:  optEnergy: 0.724396 fitness: (0.75 +- 0.0128022) normedDiff: 0.5
+last: optEnergy: 0.724297 fitness: (0.75 +- 0.0128516) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.339 s
+new random voltages: 
+1 -0.165145
+2 0.0715215
+3 -0.804789
+4 -0.891108
+5 0.452565
+6 0.406039
+7 0.600537
+current: -1.45941e-05 +- 6.57621e-07 voltages: 0.6 -0.165145 0.0715215 -0.804789 -0.891108 0.452565 0.406039 0.600537  time: 2.68357e+07
+iteration 10204
+now:  optEnergy: 0.718137 fitness: (0.75 +- 0.0159314) normedDiff: 0.5
+last: optEnergy: 0.724396 fitness: (0.75 +- 0.0128022) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.328 s
+new random voltages: 
+1 -0.146839
+2 0.0646552
+3 -0.802276
+4 -0.843259
+5 0.454492
+6 0.364349
+7 0.57546
+current: -1.16055e-05 +- 6.1943e-07 voltages: 0.6 -0.146839 0.0646552 -0.802276 -0.843259 0.454492 0.364349 0.57546  time: 2.31299e+07
+iteration 10205
+now:  optEnergy: 0.712259 fitness: (0.75 +- 0.0188705) normedDiff: 0.5
+last: optEnergy: 0.718137 fitness: (0.75 +- 0.0159314) normedDiff: 0.5
+-- not accepted --
+time per VoltageSetup = 0.334 s
+new random voltages: 
+1 -0.195698
+2 0.0511005
+3 -0.76896
+4 -0.855401
+5 0.429045
+6 0.368618
+7 0.592141
+current: -1.65803e-05 +- 7.42342e-07 voltages: 0.6 -0.195698 0.0511005 -0.76896 -0.855401 0.429045 0.368618 0.592141  time: 2.10677e+07
+iteration 10206
+now:  optEnergy: 0.718341 fitness: (0.75 +- 0.0158295) normedDiff: 0.5
+last: optEnergy: 0.718137 fitness: (0.75 +- 0.0159314) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.335 s
+new random voltages: 
+1 -0.170888
+2 0.089582
+3 -0.738546
+4 -0.872416
+5 0.410996
+6 0.348487
+7 0.573604
+current: -1.50329e-05 +- 6.94173e-07 voltages: 0.6 -0.170888 0.089582 -0.738546 -0.872416 0.410996 0.348487 0.573604  time: 2.71504e+07
+iteration 10207
+now:  optEnergy: 0.717348 fitness: (0.75 +- 0.016326) normedDiff: 0.5
+last: optEnergy: 0.718341 fitness: (0.75 +- 0.0158295) normedDiff: 0.5
+-- not accepted --
+time per VoltageSetup = 0.331 s
+new random voltages: 
+1 -0.18061
+2 0.0407373
+3 -0.783443
+4 -0.887263
+5 0.435857
+6 0.396235
+7 0.545712
+current: -1.41364e-05 +- 7.35916e-07 voltages: 0.6 -0.18061 0.0407373 -0.783443 -0.887263 0.435857 0.396235 0.545712  time: 1.98478e+07
+iteration 10208
+now:  optEnergy: 0.713189 fitness: (0.75 +- 0.0184054) normedDiff: 0.5
+last: optEnergy: 0.718341 fitness: (0.75 +- 0.0158295) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.331 s
+new random voltages: 
+1 -0.180848
+2 -0.00734035
+3 -0.75086
+4 -0.867215
+5 0.435189
+6 0.380943
+7 0.544844
+current: -1.53289e-05 +- 1.19136e-06 voltages: 0.6 -0.180848 -0.00734035 -0.75086 -0.867215 0.435189 0.380943 0.544844  time: 9.09573e+06
+iteration 10209
+now:  optEnergy: 0.695044 fitness: (0.75 +- 0.027478) normedDiff: 0.5
+last: optEnergy: 0.713189 fitness: (0.75 +- 0.0184054) normedDiff: 0.5
+-- not accepted --
+time per VoltageSetup = 0.325 s
+new random voltages: 
+1 -0.222498
+2 0.0202262
+3 -0.764631
+4 -0.857652
+5 0.455974
+6 0.370024
+7 0.587509
+current: -1.69132e-05 +- 9.89111e-07 voltages: 0.6 -0.222498 0.0202262 -0.764631 -0.857652 0.455974 0.370024 0.587509  time: 1.51444e+07
+iteration 10210
+now:  optEnergy: 0.708647 fitness: (0.75 +- 0.0206764) normedDiff: 0.5
+last: optEnergy: 0.713189 fitness: (0.75 +- 0.0184054) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.324 s
+new random voltages: 
+1 -0.210442
+2 0.0203064
+3 -0.742549
+4 -0.859077
+5 0.430417
+6 0.413599
+7 0.587508
+current: -1.51895e-05 +- 9.39267e-07 voltages: 0.6 -0.210442 0.0203064 -0.742549 -0.859077 0.430417 0.413599 0.587508  time: 1.53853e+07
+iteration 10211
+now:  optEnergy: 0.706275 fitness: (0.75 +- 0.0218625) normedDiff: 0.5
+last: optEnergy: 0.708647 fitness: (0.75 +- 0.0206764) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.331 s
+new random voltages: 
+1 -0.220892
+2 0.00255528
+3 -0.766891
+4 -0.809644
+5 0.394889
+6 0.383967
+7 0.590556
+current: -1.799e-05 +- 9.98783e-07 voltages: 0.6 -0.220892 0.00255528 -0.766891 -0.809644 0.394889 0.383967 0.590556  time: 1.41745e+07
+iteration 10212
+now:  optEnergy: 0.710742 fitness: (0.75 +- 0.0196289) normedDiff: 0.5
+last: optEnergy: 0.706275 fitness: (0.75 +- 0.0218625) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.335 s
+new random voltages: 
+1 -0.269631
+2 0.0477005
+3 -0.751131
+4 -0.762186
+5 0.422096
+6 0.359418
+7 0.618179
+current: -1.9268e-05 +- 7.09316e-07 voltages: 0.6 -0.269631 0.0477005 -0.751131 -0.762186 0.422096 0.359418 0.618179  time: 2.11804e+07
+iteration 10213
+now:  optEnergy: 0.723969 fitness: (0.75 +- 0.0130154) normedDiff: 0.5
+last: optEnergy: 0.710742 fitness: (0.75 +- 0.0196289) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.363 s
+new random voltages: 
+1 -0.300603
+2 0.00686556
+3 -0.728211
+4 -0.748596
+5 0.431785
+6 0.363536
+7 0.598377
+current: -1.8987e-05 +- 9.98848e-07 voltages: 0.6 -0.300603 0.00686556 -0.728211 -0.748596 0.431785 0.363536 0.598377  time: 1.45417e+07
+iteration 10214
+now:  optEnergy: 0.712801 fitness: (0.75 +- 0.0185994) normedDiff: 0.5
+last: optEnergy: 0.723969 fitness: (0.75 +- 0.0130154) normedDiff: 0.5
+-- not accepted --
+time per VoltageSetup = 0.335 s
+new random voltages: 
+1 -0.299465
+2 0.0192911
+3 -0.794686
+4 -0.778409
+5 0.381783
+6 0.386635
+7 0.569699
+current: -1.80974e-05 +- 7.31029e-07 voltages: 0.6 -0.299465 0.0192911 -0.794686 -0.778409 0.381783 0.386635 0.569699  time: 2.33018e+07
+iteration 10215
+now:  optEnergy: 0.721437 fitness: (0.75 +- 0.0142814) normedDiff: 0.5
+last: optEnergy: 0.723969 fitness: (0.75 +- 0.0130154) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.329 s
+new random voltages: 
+1 -0.336177
+2 -0.000414674
+3 -0.768196
+4 -0.793614
+5 0.419257
+6 0.431356
+7 0.546873
+current: -1.9617e-05 +- 8.56732e-07 voltages: 0.6 -0.336177 -0.000414674 -0.768196 -0.793614 0.419257 0.431356 0.546873  time: 2.26801e+07
+iteration 10216
+now:  optEnergy: 0.719119 fitness: (0.75 +- 0.0154407) normedDiff: 0.5
+last: optEnergy: 0.721437 fitness: (0.75 +- 0.0142814) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.331 s
+new random voltages: 
+1 -0.302022
+2 -0.0473603
+3 -0.743331
+4 -0.843474
+5 0.422559
+6 0.408025
+7 0.522623
+current: -1.68969e-05 +- 1.25487e-06 voltages: 0.6 -0.302022 -0.0473603 -0.743331 -0.843474 0.422559 0.408025 0.522623  time: 9.32034e+06
+iteration 10217
+now:  optEnergy: 0.697486 fitness: (0.75 +- 0.0262571) normedDiff: 0.5
+last: optEnergy: 0.719119 fitness: (0.75 +- 0.0154407) normedDiff: 0.5
+-- not accepted --
+time per VoltageSetup = 0.33 s
+new random voltages: 
+1 -0.339654
+2 -0.0421701
+3 -0.767441
+4 -0.826374
+5 0.467715
+6 0.405938
+7 0.585341
+current: -1.78068e-05 +- 1.21165e-06 voltages: 0.6 -0.339654 -0.0421701 -0.767441 -0.826374 0.467715 0.405938 0.585341  time: 1.17573e+07
+iteration 10218
+now:  optEnergy: 0.701885 fitness: (0.75 +- 0.0240573) normedDiff: 0.5
+last: optEnergy: 0.719119 fitness: (0.75 +- 0.0154407) normedDiff: 0.5
+-- not accepted --
+time per VoltageSetup = 0.323 s
+new random voltages: 
+1 -0.34365
+2 -0.0381769
+3 -0.766788
+4 -0.826073
+5 0.453358
+6 0.46739
+7 0.533044
+current: -1.979e-05 +- 1.10284e-06 voltages: 0.6 -0.34365 -0.0381769 -0.766788 -0.826073 0.453358 0.46739 0.533044  time: 1.2996e+07
+iteration 10219
+now:  optEnergy: 0.710595 fitness: (0.75 +- 0.0197025) normedDiff: 0.5
+last: optEnergy: 0.719119 fitness: (0.75 +- 0.0154407) normedDiff: 0.5
+-- not accepted --
+time per VoltageSetup = 0.324 s
+new random voltages: 
+1 -0.375631
+2 -0.0415441
+3 -0.730054
+4 -0.797794
+5 0.452191
+6 0.404754
+7 0.557047
+current: -2.24638e-05 +- 1.19732e-06 voltages: 0.6 -0.375631 -0.0415441 -0.730054 -0.797794 0.452191 0.404754 0.557047  time: 1.22923e+07
+iteration 10220
+now:  optEnergy: 0.712311 fitness: (0.75 +- 0.0188444) normedDiff: 0.5
+last: optEnergy: 0.719119 fitness: (0.75 +- 0.0154407) normedDiff: 0.5
+-- not accepted --
+time per VoltageSetup = 0.326 s
+new random voltages: 
+1 -0.341789
+2 0.0163844
+3 -0.814423
+4 -0.811687
+5 0.400121
+6 0.411813
+7 0.507968
+current: -1.84064e-05 +- 5.97439e-07 voltages: 0.6 -0.341789 0.0163844 -0.814423 -0.811687 0.400121 0.411813 0.507968  time: 3.06424e+07
+iteration 10221
+now:  optEnergy: 0.727049 fitness: (0.75 +- 0.0114757) normedDiff: 0.5
+last: optEnergy: 0.719119 fitness: (0.75 +- 0.0154407) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.327 s
+new random voltages: 
+1 -0.379305
+2 0.0281606
+3 -0.828717
+4 -0.840408
+5 0.352985
+6 0.4526
+7 0.536989
+current: -1.99293e-05 +- 5.64416e-07 voltages: 0.6 -0.379305 0.0281606 -0.828717 -0.840408 0.352985 0.4526 0.536989  time: 4.25989e+07
+iteration 10222
+now:  optEnergy: 0.729974 fitness: (0.75 +- 0.0100129) normedDiff: 0.5
+last: optEnergy: 0.727049 fitness: (0.75 +- 0.0114757) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.335 s
+new random voltages: 
+1 -0.361579
+2 0.0593005
+3 -0.830478
+4 -0.821224
+5 0.382945
+6 0.41988
+7 0.510912
+current: -1.76321e-05 +- 4.51237e-07 voltages: 0.6 -0.361579 0.0593005 -0.830478 -0.821224 0.382945 0.41988 0.510912  time: 5.02883e+07
+iteration 10223
+now:  optEnergy: 0.731904 fitness: (0.75 +- 0.00904807) normedDiff: 0.5
+last: optEnergy: 0.729974 fitness: (0.75 +- 0.0100129) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.331 s
+new random voltages: 
+1 -0.316696
+2 0.0590827
+3 -0.864544
+4 -0.825497
+5 0.421367
+6 0.427691
+7 0.499461
+current: -1.67777e-05 +- 5.51064e-07 voltages: 0.6 -0.316696 0.0590827 -0.864544 -0.825497 0.421367 0.427691 0.499461  time: 4.2133e+07
+iteration 10224
+now:  optEnergy: 0.726775 fitness: (0.75 +- 0.0116125) normedDiff: 0.5
+last: optEnergy: 0.731904 fitness: (0.75 +- 0.00904807) normedDiff: 0.5
+-- not accepted --
+time per VoltageSetup = 0.331 s
+new random voltages: 
+1 -0.312637
+2 0.0617357
+3 -0.835693
+4 -0.86835
+5 0.392084
+6 0.391458
+7 0.550821
+current: -1.69414e-05 +- 5.49965e-07 voltages: 0.6 -0.312637 0.0617357 -0.835693 -0.86835 0.392084 0.391458 0.550821  time: 4.56679e+07
+iteration 10225
+now:  optEnergy: 0.727045 fitness: (0.75 +- 0.0114774) normedDiff: 0.5
+last: optEnergy: 0.731904 fitness: (0.75 +- 0.00904807) normedDiff: 0.5
+-- not accepted --
+time per VoltageSetup = 0.333 s
+new random voltages: 
+1 -0.383113
+2 0.03474
+3 -0.792589
+4 -0.860512
+5 0.410162
+6 0.419938
+7 0.462341
+current: -1.72642e-05 +- 5.6797e-07 voltages: 0.6 -0.383113 0.03474 -0.792589 -0.860512 0.410162 0.419938 0.462341  time: 3.74472e+07
+iteration 10226
+now:  optEnergy: 0.726737 fitness: (0.75 +- 0.0116314) normedDiff: 0.5
+last: optEnergy: 0.731904 fitness: (0.75 +- 0.00904807) normedDiff: 0.5
+-- not accepted --
+time per VoltageSetup = 0.333 s
+new random voltages: 
+1 -0.390801
+2 0.103771
+3 -0.846132
+4 -0.864385
+5 0.364077
+6 0.434897
+7 0.541252
+current: -2.06373e-05 +- 4.84368e-07 voltages: 0.6 -0.390801 0.103771 -0.846132 -0.864385 0.364077 0.434897 0.541252  time: 6.54122e+07
+iteration 10227
+now:  optEnergy: 0.733404 fitness: (0.75 +- 0.00829806) normedDiff: 0.5
+last: optEnergy: 0.731904 fitness: (0.75 +- 0.00904807) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.338 s
+new random voltages: 
+1 -0.397963
+2 0.135414
+3 -0.881202
+4 -0.868816
+5 0.402623
+6 0.47509
+7 0.531632
+current: -2.10873e-05 +- 3.80244e-07 voltages: 0.6 -0.397963 0.135414 -0.881202 -0.868816 0.402623 0.47509 0.531632  time: 6.46223e+07
+iteration 10228
+now:  optEnergy: 0.737249 fitness: (0.75 +- 0.00637525) normedDiff: 0.5
+last: optEnergy: 0.733404 fitness: (0.75 +- 0.00829806) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.308 s
+new random voltages: 
+1 -0.426652
+2 0.112512
+3 -0.928553
+4 -0.84252
+5 0.377769
+6 0.450972
+7 0.568616
+current: -2.19767e-05 +- 5.08811e-07 voltages: 0.6 -0.426652 0.112512 -0.928553 -0.84252 0.377769 0.450972 0.568616  time: 5.96358e+07
+iteration 10229
+now:  optEnergy: 0.733629 fitness: (0.75 +- 0.00818558) normedDiff: 0.5
+last: optEnergy: 0.737249 fitness: (0.75 +- 0.00637525) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.343 s
+new random voltages: 
+1 -0.460694
+2 0.111174
+3 -0.949452
+4 -0.872136
+5 0.373136
+6 0.499159
+7 0.601677
+current: -2.21492e-05 +- 5.25e-07 voltages: 0.6 -0.460694 0.111174 -0.949452 -0.872136 0.373136 0.499159 0.601677  time: 6.80927e+07
+iteration 10230
+now:  optEnergy: 0.73324 fitness: (0.75 +- 0.00838024) normedDiff: 0.5
+last: optEnergy: 0.733629 fitness: (0.75 +- 0.00818558) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.348 s
+new random voltages: 
+1 -0.442749
+2 0.121559
+3 -0.911269
+4 -0.829672
+5 0.365258
+6 0.524899
+7 0.605026
+current: -2.07142e-05 +- 4.79012e-07 voltages: 0.6 -0.442749 0.121559 -0.911269 -0.829672 0.365258 0.524899 0.605026  time: 6.0417e+07
+iteration 10231
+now:  optEnergy: 0.733648 fitness: (0.75 +- 0.00817587) normedDiff: 0.5
+last: optEnergy: 0.73324 fitness: (0.75 +- 0.00838024) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.338 s
+new random voltages: 
+1 -0.456018
+2 0.128819
+3 -0.914752
+4 -0.818895
+5 0.382292
+6 0.539469
+7 0.622644
+current: -2.1601e-05 +- 5.13725e-07 voltages: 0.6 -0.456018 0.128819 -0.914752 -0.818895 0.382292 0.539469 0.622644  time: 5.7236e+07
+iteration 10232
+now:  optEnergy: 0.733183 fitness: (0.75 +- 0.00840836) normedDiff: 0.5
+last: optEnergy: 0.733648 fitness: (0.75 +- 0.00817587) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.34 s
+new random voltages: 
+1 -0.497891
+2 0.13194
+3 -0.950193
+4 -0.817801
+5 0.411703
+6 0.496085
+7 0.667625
+current: -2.19513e-05 +- 4.57424e-07 voltages: 0.6 -0.497891 0.13194 -0.950193 -0.817801 0.411703 0.496085 0.667625  time: 5.63164e+07
+iteration 10233
+now:  optEnergy: 0.735265 fitness: (0.75 +- 0.00736739) normedDiff: 0.5
+last: optEnergy: 0.733183 fitness: (0.75 +- 0.00840836) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.346 s
+new random voltages: 
+1 -0.508596
+2 0.121762
+3 -0.9095
+4 -0.859094
+5 0.401425
+6 0.506404
+7 0.632076
+current: -2.13509e-05 +- 4.32711e-07 voltages: 0.6 -0.508596 0.121762 -0.9095 -0.859094 0.401425 0.506404 0.632076  time: 7.26162e+07
+iteration 10234
+now:  optEnergy: 0.735669 fitness: (0.75 +- 0.00716535) normedDiff: 0.5
+last: optEnergy: 0.735265 fitness: (0.75 +- 0.00736739) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.344 s
+new random voltages: 
+1 -0.534586
+2 0.158322
+3 -0.884084
+4 -0.823163
+5 0.381227
+6 0.472356
+7 0.60776
+current: -2.25681e-05 +- 5.32908e-07 voltages: 0.6 -0.534586 0.158322 -0.884084 -0.823163 0.381227 0.472356 0.60776  time: 6.45898e+07
+iteration 10235
+now:  optEnergy: 0.733303 fitness: (0.75 +- 0.00834859) normedDiff: 0.5
+last: optEnergy: 0.735669 fitness: (0.75 +- 0.00716535) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.339 s
+new random voltages: 
+1 -0.552493
+2 0.185486
+3 -0.837162
+4 -0.794907
+5 0.392406
+6 0.504741
+7 0.563107
+current: -2.31936e-05 +- 5.12324e-07 voltages: 0.6 -0.552493 0.185486 -0.837162 -0.794907 0.392406 0.504741 0.563107  time: 6.19461e+07
+iteration 10236
+now:  optEnergy: 0.734381 fitness: (0.75 +- 0.00780966) normedDiff: 0.5
+last: optEnergy: 0.733303 fitness: (0.75 +- 0.00834859) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.339 s
+new random voltages: 
+1 -0.600244
+2 0.149241
+3 -0.860612
+4 -0.833822
+5 0.34243
+6 0.526392
+7 0.537683
+current: -2.24916e-05 +- 4.72702e-07 voltages: 0.6 -0.600244 0.149241 -0.860612 -0.833822 0.34243 0.526392 0.537683  time: 6.96961e+07
+iteration 10237
+now:  optEnergy: 0.735139 fitness: (0.75 +- 0.00743055) normedDiff: 0.5
+last: optEnergy: 0.734381 fitness: (0.75 +- 0.00780966) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.338 s
+new random voltages: 
+1 -0.643852
+2 0.129836
+3 -0.855439
+4 -0.843008
+5 0.340721
+6 0.57203
+7 0.525855
+current: -2.12823e-05 +- 3.87941e-07 voltages: 0.6 -0.643852 0.129836 -0.855439 -0.843008 0.340721 0.57203 0.525855  time: 7.10073e+07
+iteration 10238
+now:  optEnergy: 0.737111 fitness: (0.75 +- 0.00644469) normedDiff: 0.5
+last: optEnergy: 0.735139 fitness: (0.75 +- 0.00743055) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.356 s
+new random voltages: 
+1 -0.631917
+2 0.119327
+3 -0.869145
+4 -0.820593
+5 0.388585
+6 0.59361
+7 0.553149
+current: -2.22634e-05 +- 4.41963e-07 voltages: 0.6 -0.631917 0.119327 -0.869145 -0.820593 0.388585 0.59361 0.553149  time: 6.42493e+07
+iteration 10239
+now:  optEnergy: 0.735963 fitness: (0.75 +- 0.00701857) normedDiff: 0.5
+last: optEnergy: 0.737111 fitness: (0.75 +- 0.00644469) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.348 s
+new random voltages: 
+1 -0.631216
+2 0.1577
+3 -0.830952
+4 -0.822858
+5 0.418576
+6 0.590692
+7 0.531891
+current: -2.23078e-05 +- 4.68957e-07 voltages: 0.6 -0.631216 0.1577 -0.830952 -0.822858 0.418576 0.590692 0.531891  time: 6.79145e+07
+iteration 10240
+now:  optEnergy: 0.735135 fitness: (0.75 +- 0.00743244) normedDiff: 0.5
+last: optEnergy: 0.735963 fitness: (0.75 +- 0.00701857) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.344 s
+new random voltages: 
+1 -0.624254
+2 0.134568
+3 -0.809067
+4 -0.784417
+5 0.381167
+6 0.625348
+7 0.562667
+current: -2.20501e-05 +- 4.40643e-07 voltages: 0.6 -0.624254 0.134568 -0.809067 -0.784417 0.381167 0.625348 0.562667  time: 5.88194e+07
+iteration 10241
+now:  optEnergy: 0.735869 fitness: (0.75 +- 0.00706531) normedDiff: 0.5
+last: optEnergy: 0.735135 fitness: (0.75 +- 0.00743244) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.347 s
+new random voltages: 
+1 -0.668834
+2 0.175078
+3 -0.836409
+4 -0.814725
+5 0.362068
+6 0.590279
+7 0.584919
+current: -2.26571e-05 +- 4.35145e-07 voltages: 0.6 -0.668834 0.175078 -0.836409 -0.814725 0.362068 0.590279 0.584919  time: 6.96234e+07
+iteration 10242
+now:  optEnergy: 0.73642 fitness: (0.75 +- 0.00679024) normedDiff: 0.5
+last: optEnergy: 0.735869 fitness: (0.75 +- 0.00706531) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.342 s
+new random voltages: 
+1 -0.644111
+2 0.194578
+3 -0.796178
+4 -0.785327
+5 0.373592
+6 0.547887
+7 0.594705
+current: -2.18381e-05 +- 3.73278e-07 voltages: 0.6 -0.644111 0.194578 -0.796178 -0.785327 0.373592 0.547887 0.594705  time: 6.67204e+07
+iteration 10243
+now:  optEnergy: 0.737913 fitness: (0.75 +- 0.00604328) normedDiff: 0.5
+last: optEnergy: 0.73642 fitness: (0.75 +- 0.00679024) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.342 s
+new random voltages: 
+1 -0.65881
+2 0.166654
+3 -0.767678
+4 -0.806375
+5 0.343857
+6 0.588385
+7 0.551526
+current: -2.20853e-05 +- 4.64157e-07 voltages: 0.6 -0.65881 0.166654 -0.767678 -0.806375 0.343857 0.588385 0.551526  time: 7.11325e+07
+iteration 10244
+now:  optEnergy: 0.735139 fitness: (0.75 +- 0.00743045) normedDiff: 0.5
+last: optEnergy: 0.737913 fitness: (0.75 +- 0.00604328) normedDiff: 0.5
+-- accepted --
+time per VoltageSetup = 0.344 s
+new random voltages: 
+1 -0.680199
+2 0.210757
+3 -0.809296
+4 -0.817039
+5 0.337167
+6 0.60562
+7 0.51812
