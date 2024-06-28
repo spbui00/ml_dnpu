@@ -1,3 +1,8 @@
+"""
+Author: Thai Ha Bui
+Description: This script is designed to load and print the control voltages from a saved model state dictionary. It is part of the post-processing steps for analyzing the performance of a trained model. The script loads the model state dictionary from a specified directory and extracts the control voltages, which are then printed to the console.
+"""
+
 import os
 import torch
 from brainspy.utils.pytorch import TorchUtils

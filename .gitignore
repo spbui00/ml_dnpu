@@ -43,5 +43,5 @@ venv/
 
 swapTrackFile1.txt
 
-samples/
-output/
+samples/**
+output/**

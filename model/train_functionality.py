@@ -1,3 +1,10 @@
+"""
+Author: Thai Ha Bui
+Description: This script is used to train a custom model for a boolean task. 
+It loads the configuration, sets up the model, criterion, and algorithm, and then 
+trains the model using the `boolean_task` function from the `bspytasks.boolean.tasks.classifier` module.
+"""
+
 import os
 import torch
 from brainspy.utils.pytorch import TorchUtils

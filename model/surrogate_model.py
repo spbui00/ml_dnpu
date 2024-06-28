@@ -1,3 +1,8 @@
+"""
+Author: Thai Ha Bui
+Description: This script defines a SurrogateModel class that loads a neural network model from a checkpoint and provides methods for making predictions and validating gate configurations. It also includes a main section for testing the model with different input voltages.
+"""
+
 import torch
 from brainspy.processors.simulation.model import NeuralNetworkModel
 from brainspy.utils.pytorch import TorchUtils
@@ -99,23 +104,10 @@ class SurrogateModel:
         plt.show()
 
 if __name__ == "__main__":
-    # data_path = "output/conv_model/training_data_2024_06_09_112047"
+    # train your surrogate model first then provide the path to it here
     data_path = "output/conv_model/100000"
-    # data_path = "output/conv_model/100000_input_pairs_1"
-    # data_path = "output/conv_model/70k_1e5"
-    # data_path = "output/conv_model/70k_1e5_4000"
-    # data_path = "output/conv_model/training_data_2024_06_15_220024"
 
     # Instantiate the SurrogateModel
     sm = SurrogateModel(data_path)
 
-    # sm.validate_gate([-0.0839,  0.1401,  0.0581,  0.7374,  0.4974]) #XOR
-    # sm.validate_gate([ -0.0854,  1.4072, -0.7048,  1.0727,  0.2209]) #AND
-    # sm.validate_gate([0.5426, -0.9029, 0.6333, -0.4036, -0.4998]) #AND
-    # sm.validate_gate([0.2039,  0.2379, -0.4031,  0.6261,  0.8185]) #1001
-    # sm.validate_gate([-0.2401, -1.0018,  0.4030,  0.8886,  0.456]) #XOR custom fit
-    # sm.validate_gate([0.5209, -0.0266, -0.6812, -1.0801,  0.1685]) #OR custom fit
-    # sm.validate_gate([0.0145, 0.1273, 1.0213, 0.8672, 0.8862]) #AND custom fit
-    # sm.validate_gate([0.0622,  2.2786,  0.0152,  0.7830, -0.0778]) #XOR custom fit 100 000 1e4
-    sm.validate_gate([0.5520, -1.0111,  0.5123, -0.1667, -0.3607]) #XOR custom fit 70k 1e5
-    # sm.validate_gate([0.0286, 0.7840, 0.5002, 0.8496, 0.8247]) #XOR custom fit 70k 1e5
+    sm.validate_gate([0.5520, -1.0111,  0.5123, -0.1667, -0.3607]) #XOR custom fit 

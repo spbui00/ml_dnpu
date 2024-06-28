@@ -1,3 +1,8 @@
+"""
+Author: Thai Ha Bui
+Description: This script contains functions for loading data, calculating RMSE, normalized RMSE, separation line, and the main function for testing the surrogate model.
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 from surrogate_model import SurrogateModel
@@ -29,7 +34,9 @@ def calculate_separation_line(combinations, true_outputs, zero_groups, one_group
     return separation_line
 
 def main():
+    # provide the path to the surrogate model
     data_path = "output/conv_model/100000"
+    # provide the path to the IO data (data from simulation or device)
     io_data_path = "../samples/boolean/2024-06-26_00-36-06 (xor)/IO.dat"
 
     # Load the surrogate model
@@ -79,10 +86,7 @@ def main():
     plt.axhline(y=separation_line, color='black', linestyle='--', linewidth=1)
     plt.text(1.5, separation_line, f'Separation Line = ({highest_zero:.2f} + {lowest_one:.2f}) / 2 = {separation_line:.2f}', ha='center', va='bottom', color='black')
 
-    # formula_text = f'Separation Line = ({highest_zero:.2f} + {lowest_one:.2f}) / 2'
-    # plt.text(0.5, separation_line - 0.05, formula_text, ha='center', va='top', color='black', fontsize=8)
-
-    plt.xticks(range(len(gate_configs)), gate_configs)  # Set x-ticks to gate configurations
+    plt.xticks(range(len(gate_configs)), gate_configs) 
     plt.xlabel('Input pairs')
     plt.ylabel('Current (nA)')
     plt.title(f'RMSE: {normalized_rmse:.2f}%')

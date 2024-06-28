@@ -1,3 +1,8 @@
+"""
+Author: Thai Ha Bui
+Description: This script is used to train a surrogate model using the BRAINSPY package. It loads the configuration, generates the surrogate model, and saves it to a specified directory.
+"""
+
 import yaml
 from bspysmg.model.training import generate_surrogate_model
 

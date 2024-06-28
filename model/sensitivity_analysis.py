@@ -1,3 +1,8 @@
+"""
+Author: Thai Ha Bui
+Description: This script contains functions for performing sensitivity analysis on surrogate models. It includes methods for loading models, perturbing inputs, and visualizing sensitivity results.
+"""
+
 from surrogate_model import SurrogateModel
 import numpy as np
 import matplotlib.pyplot as plt

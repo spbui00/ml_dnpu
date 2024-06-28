@@ -1,3 +1,8 @@
+"""
+Author: Thai Ha Bui
+Description: This script is designed to compare the training losses of two different loss functions for a binary classification task. It loads the training losses from two different directories and performs a t-test to determine if there is a significant difference between the two loss functions.
+"""
+
 import os
 import torch
 import matplotlib.pyplot as plt

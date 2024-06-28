@@ -1,3 +1,8 @@
+"""
+Author: Thai Ha Bui
+Description: This script is designed to compare the uncertainties of KMC steps in different directories. It loads the uncertainties from each directory and plots the distributions of the uncertainties. It also calculates the mean uncertainties for each directory and plots them.
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 

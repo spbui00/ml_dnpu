@@ -1,3 +1,8 @@
+"""
+Author: Thai Ha Bui
+Description: This script is used to compare the performance of multiple surrogate models. It generates a set of random inputs and compares the predictions of each model.
+"""
+
 from surrogate_model import SurrogateModel
 import numpy as np
 from sklearn.metrics import mean_squared_error
