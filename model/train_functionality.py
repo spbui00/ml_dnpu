@@ -8,15 +8,25 @@ from brainspy.utils import manager
 from bspytasks.boolean.tasks.classifier import boolean_task
 from bspytasks.models.default_boolean import DefaultCustomModel
 
+# log_dir = "output/and_gate"
+# logger = Logger(log_dir)
+
+def custom_transform(sample):
+    inputs, targets = sample
+    inputs = torch.where(inputs == -0.5, torch.tensor(0.0), inputs)
+    inputs = torch.where(inputs == 1.0, torch.tensor(0.5), inputs)
+    return inputs, targets
+
 # Load the configuration
-configs = load_configs("configs/boolean.yaml")
+configs = load_configs("configs/boolean_gd.yaml")
 
 # Load the surrogate model
-model_path = 'output/conv_model/training_data_2024_05_25_160221/training_data.pt'
+model_path = 'output/conv_model/100000/training_data.pt'
 configs['processor']['model_dir'] = model_path
 
 # Define the criterion and algorithm
 criterion = manager.get_criterion(configs["algorithm"]['criterion'])
+# algorithm = manager.get_algorithm(configs["algorithm"]['optimizer'])
 algorithm = manager.get_algorithm(configs["algorithm"]['type'])
 
 # Train the model

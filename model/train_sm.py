@@ -2,7 +2,7 @@ import yaml
 from bspysmg.model.training import generate_surrogate_model
 
 # Load the configuration
-with open('smg_configs.yaml', 'r') as file:
+with open('configs/smg_configs.yaml', 'r') as file:
     smg_configs = yaml.safe_load(file)
 
 # Generate the surrogate model

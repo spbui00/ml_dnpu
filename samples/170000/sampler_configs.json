@@ -1,0 +1,68 @@
+{
+  "save_directory": "../samples/samples_2024-05-26_23-53-36_2713",
+  "data_name": "simulated_device",
+  "driver": {
+    "instrument_type": "cdaq_to_cdaq",
+    "inverted_output": false,
+    "instruments_setup": {
+      "multiple_devices": false,
+      "activation_sampling_frequency": 5000,
+      "readout_sampling_frequency": 10000,
+      "average_io_point_difference": true,
+      "trigger_source": "simulation",
+      "activation_instrument": "simulation",
+      "activation_channels": [0, 1, 2, 3, 4, 5, 6],
+      "activation_voltage_ranges": [
+        [-1, 1],
+        [-1, 1],
+        [-1, 1],
+        [-1, 1],
+        [-1, 1],
+        [-1, 1],
+        [-1, 1]
+      ],
+      "activation_channel_mask": [1, 1, 1, 1, 1, 1, 1],
+      "readout_channels": [0]
+    },
+    "amplification": [1]
+  },
+  "setup_insights": {
+    "gain_info": "N/A",
+    "setup_name": "simulation_setup",
+    "device_comments": "Simulated data",
+    "device_material": "N/A"
+  },
+  "input_data": {
+    "input_distribution": "sawtooth",
+    "activation_electrode_no": 7,
+    "readout_electrode_no": 1,
+    "input_frequency": [2, 3, 5, 7, 13, 17, 19],
+    "phase": [0, 0, 0, 0, 0, 0, 0],
+    "random_phase_shift_each": 1,
+    "ramp_time": 0.4,
+    "batch_time": 0.5,
+    "number_batches": 80,
+    "amplitude": [1, 1, 1, 1, 1, 1, 1],
+    "offset": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "electrode_info": {
+    "electrode_no": 8,
+    "activation_electrodes": {
+      "electrode_no": 7,
+      "voltage_ranges": [
+        [-1, 1],
+        [-1, 1],
+        [-1, 1],
+        [-1, 1],
+        [-1, 1],
+        [-1, 1],
+        [-1, 1]
+      ]
+    },
+    "output_electrodes": {
+      "electrode_no": 1,
+      "clipping_value": [-1000, 1000],
+      "amplification": 1
+    }
+  }
+}

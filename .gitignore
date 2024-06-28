@@ -42,3 +42,6 @@ venv/
 .vscode/
 
 swapTrackFile1.txt
+
+samples/
+output/

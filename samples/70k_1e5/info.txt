@@ -1,0 +1,17 @@
+Number of samples: 70000
+Number of control electrodes: 7
+Acceptor number: 10
+Donor number: 0
+Radius: 16.77
+Electrode width: 6.708
+Control voltage min: -1
+Control voltage max: 1
+Voltage scan points: 2
+Output electrode: 0
+Control electrode index: 1
+Control electrode index: 2
+Control electrode index: 3
+Control electrode index: 4
+Control electrode index: 5
+Control electrode index: 6
+Control electrode index: 7
