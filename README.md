@@ -3,7 +3,7 @@
 This repository serves as tool for the bachelor thesis project of Thai Ha Bui, June 2024, Department of Applied Mathematics
 Faculty of Electrical Engineering, Mathematics and Computer Science, University of Twente, Netherlands. It contains data and code for the project.
 
-Thesis paper: "[A minimal nanoneuron capable of nonlinear classification]([https://essay.utwente.nl/](https://r.search.yahoo.com/_ylt=Awr.QIP_kwRpszEkDApnXQx.;_ylu=Y29sbwMEcG9zAzgEdnRpZAMEc2VjA3Ny/RV=2/RE=1761936511/RO=10/RU=https%3a%2f%2fessay.utwente.nl%2f102266%2f/RK=2/RS=C81m_SOuTQNPxxUW_qe8b7ct3Qs-))"
+Thesis paper: "[A minimal nanoneuron capable of nonlinear classification](https://r.search.yahoo.com/_ylt=Awr.QIP_kwRpszEkDApnXQx.;_ylu=Y29sbwMEcG9zAzgEdnRpZAMEc2VjA3Ny/RV=2/RE=1761936511/RO=10/RU=https%3a%2f%2fessay.utwente.nl%2f102266%2f/RK=2/RS=C81m_SOuTQNPxxUW_qe8b7ct3Qs-)"
 
 ## Setup
 
